@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7a912e1-ff95-4b28-80b4-23d51fa15f10" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../developer/gs-messaging-reactor-master/complete" value="1435815982000" />
+        <entry key="$PROJECT_DIR$/../../developer/spring-reactor-samples/reactor-quickstart-master" value="2868454685000" />
+        <entry key="$PROJECT_DIR$/../../developer/spring-reactor-samples/reactor-samples-master" value="1431595584000" />
+        <entry key="$PROJECT_DIR$/../../developer/spring_reactor_2.0/reactor-master" value="2868768328000" />
+        <entry key="$PROJECT_DIR$/../../disruptor/disruptor" value="2946494846000" />
+        <entry key="$PROJECT_DIR$/../RxJava" value="2957000208000" />
+        <entry key="$PROJECT_DIR$/../netflix-oss" value="2966352636000" />
+        <entry key="$PROJECT_DIR$/../netflix-oss-sample/netflix-oss" value="2966471790000" />
+        <entry key="$PROJECT_DIR$/../netflix/eureka" value="2964289460000" />
+        <entry key="$PROJECT_DIR$/../rx-java-book-sample/rxjava-book-examples" value="1479575494000" />
+        <entry key="$PROJECT_DIR$/../rx-java-code-sample/Codefiles" value="1432220872000" />
+        <entry key="$PROJECT_DIR$/../spring-boot-netflix-example" value="2966347002000" />
+        <entry key="$PROJECT_DIR$/../../spring-social-google-master" value="4387263264000" />
+        <entry key="$PROJECT_DIR$/../../spring-social-master" value="5829365048000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../code-tests/XMLParser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hazelcast-3.9.3/code-samples/serialization/portable" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../boot-netflix/boot-netflix-oss-ms/product" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../feign-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../google-ml/google.vision" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/Hazelcast-Continous-Query" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/hazelcast-query-builder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/jet/hazelcast-Jet" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/spring-cloud-hazelcast" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/spring-data-hazelcast" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/spring-data-hazelcast/spring-data-hazelcast" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hazelcast/spring-hazelcast" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/cloud-stream-kafka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/framework/spring-cloud-streaming-kafka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/kafka-cloud-streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/kafka-consumer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/kafka-streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/kafka-unit" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/spring-cloud-kafka-streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka/spring-cloud-stream-samples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kotlin/kotlin-spring-google-vision-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sample-boot-batch-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-batch/gs-batch-processing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-batch/gs-batch-processing/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-cloud-contract/code-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-cloud-contract/spring-cloud-contract-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/gs-reactive-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/new/spring-streaming-restful" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/spring-react" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/spring-streaming-restful" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/sse/server-send-events" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/sse/spring-boot-reactive-sse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/sse/sse-spring/server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/stream-restful" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring5/streaming-rest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/gs-messaging-stomp-websocket" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/gs-messaging-stomp-websocket/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/sse-push" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/websocket" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spring-state-machine/state" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demoapp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../developer/hqn_230_new" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../akka-in-action/akka-in-action/chapter-up-and-running" value="1461318168000" />
+        <entry key="$PROJECT_DIR$/../../akka/akka_in_action/akka-in-action/chapter-up-and-running" value="1475554191000" />
+        <entry key="$PROJECT_DIR$/../../machine learning with spark code/8519OS_Code/Chapter 01/scala-spark-app" value="1417270276000" />
+        <entry key="$PROJECT_DIR$/../../scala/play/twitter-stream" value="1462979238000" />
+        <entry key="$PROJECT_DIR$/../../scala/prog-scala-2nd-ed-code-examples-master" value="1446530220000" />
+        <entry key="$PROJECT_DIR$/../akka-cassandra-example/activator-akka-cassandra" value="1481410037000" />
+        <entry key="$PROJECT_DIR$/../akka-sample" value="1481557261000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-fault-tolerance" value="1475554188000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-futures" value="1475554188000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-integration" value="1475554188000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-persistence" value="1475554189000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-remoting" value="1475554189000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-structure" value="1475554191000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-testdriven" value="1475554191000" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action/akka-in-action/chapter-up-and-running" value="1475554191000" />
+        <entry key="$PROJECT_DIR$/../spark/reference-apps/twitter_classifier/scala" value="1480006221000" />
+        <entry key="$PROJECT_DIR$/../spark/spark-twitter-kafka-cassandra-inaction" value="1480082186000" />
+        <entry key="$PROJECT_DIR$/../spark/spark-twitter-stream-example" value="1479995656000" />
+        <entry key="$PROJECT_DIR$/../../spark/reference-apps/logs_analyzer/chapter1/scala" value="1475669151000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../akka-reactive-streams/akka-stream-twitter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka/akka_in_action-2/akka-in-action/chapter-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/play-java-chatroom-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/play-java-websocket-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/play-scala-websocket-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../websockets/simple-play-websocket-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/lagom-scala-sbt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7a912e1-ff95-4b28-80b4-23d51fa15f10" name="Default" comment="" />
+      <created>1530607657120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530607657120</updated>
+      <workItem from="1530607659745" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="830" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="right" id="Graph Database" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20100144" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="bottom" id="Graph Database Console" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/feign-server/src/main/java/com/cham/feignserver/FeignServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
